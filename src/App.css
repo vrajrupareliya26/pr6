@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.center{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #53a066;
+  
+}
+
+h1{
+    font-size: 50px;
+}

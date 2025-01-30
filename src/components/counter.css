@@ -1,0 +1,39 @@
+body{
+    background-color: #000000;
+    color:#ffffff;
+}
+
+.box{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    background-color: #53a066;
+    min-width : 500px;
+    min-height: 300px;
+    border-radius: 30px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+button{
+    min-height: 30px;
+    min-width: 240px;
+    margin: 20px;
+    size: 50px;
+    background-color: #bfcfb7;
+    border-radius: 50px;
+    color: #000000;
+    
+}
+
+button:hover{
+    background-color: #000000;
+    color: #ffffff;
+    border-color: white;
+}
